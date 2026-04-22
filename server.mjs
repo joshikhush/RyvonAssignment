@@ -52,7 +52,7 @@ const server = http.createServer((req, res) => {
   }
 
   // File Server
-  let filePath = req.url === '/' ? '/Offerpage_updated1 new.html' : req.url;
+  let filePath = req.url === '/' ? '/Offerpage_updated1.html' : req.url;
   
   // Strip query params or hashes
   filePath = filePath.split('?')[0].split('#')[0];

@@ -1,8 +1,9 @@
 [
   {
-    "id": "ri",
+    "id": "ri-1",
     "title": "Ryvon Intelligence",
-    "thumb": "pt-ri",
+    "thumb": "Ryvon Intelligence.jpg",
+    "csImage": "Ryvon Intelligence.jpg",
     "abbr": "RI",
     "tags": [
       "design",
@@ -57,7 +58,8 @@
   {
     "id": "aw",
     "title": "Abhiwan Technology",
-    "thumb": "pt-aw",
+    "thumb": "https://imgs.search.brave.com/7Lh2VBwO5etPayF4VMPdHU89WOxsQNsAuClGWurRy9s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODM5/MjI3Ni5qcGc",
+    "csImage": "abhiwan.jpg",
     "abbr": "AW",
     "tags": [
       "design",
@@ -109,7 +111,8 @@
   {
     "id": "gr",
     "title": "Grovia Platform",
-    "thumb": "pt-aw",
+    "thumb": "abhiwan.jpg",
+    "csImage": "abhiwan.jpg",
     "abbr": "GP",
     "tags": [
       "design",
@@ -162,7 +165,8 @@
   {
     "id": "vb",
     "title": "Vaultboard",
-    "thumb": "pt-vb",
+    "thumb": "kundalipro.jpg",
+    "csImage": "kundalipro.jpg",
     "abbr": "VB",
     "tags": [
       "design",
@@ -215,7 +219,8 @@
   {
     "id": "zn",
     "title": "Zeno AI",
-    "thumb": "pt-zn",
+    "thumb": "Ryvon Intelligence.jpg",
+    "csImage": "Ryvon Intelligence.jpg",
     "abbr": "ZN",
     "tags": [
       "design",
@@ -246,7 +251,7 @@
       {
         "n": "5wk",
         "label": "Brand to launch-ready",
-        "desc": "From kickoff to full deliverable set"
+        "desc": "From kickoff to market-ready"
       },
       {
         "n": "4",

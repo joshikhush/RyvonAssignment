@@ -1,0 +1,268 @@
+[
+  {
+    "id": "ri",
+    "title": "Ryvon Intelligence",
+    "thumb": "pt-ri",
+    "abbr": "RI",
+    "tags": [
+      "design",
+      "dev",
+      "saas"
+    ],
+    "industry": "SaaS · AI Platform",
+    "cats": [
+      "Design",
+      "Development",
+      "SaaS",
+      "MVP"
+    ],
+    "desc": "End-to-end product design for an AI orchestration platform that coordinates chat, voice, automation, and workflows from a single command interface. Zero to launch-ready in under 3 weeks.",
+    "result": "Under 3 weeks · Full design system delivered",
+    "resShort": "<3wk",
+    "resLabel": "Idea to launch",
+    "services": [
+      "Full information architecture",
+      "Command interface UX design",
+      "Dashboard & agent sidebar",
+      "Workflow builder design",
+      "Complete design system handoff"
+    ],
+    "challengeTitle": "Complex AI capabilities. Zero interface clarity.",
+    "challengeText": "Ryvon Intelligence had a technically powerful product — multi-agent orchestration, voice, automation, workflows — but no interface to show for it. The founding team needed to go from concept to launch-ready design in weeks, not months, with a design system their dev team could build directly from. Every interaction had to make a complex platform feel intuitive from day one.",
+    "approachTitle": "Information architecture first, then design.",
+    "approachText": "We began with a full information architecture pass — mapping all platform capabilities to user workflows before touching a single screen. This gave us a foundation that prevented design debt later. We then built the command interface, dashboard, agent sidebar, and workflow builder in parallel, maintaining a live design system throughout. The client had a fully handoff-ready product in under 3 weeks.",
+    "results": [
+      {
+        "n": "<3wk",
+        "label": "Concept to launch-ready",
+        "desc": "From kickoff to full handoff"
+      },
+      {
+        "n": "Full",
+        "label": "Design system",
+        "desc": "Production-ready component library"
+      },
+      {
+        "n": "5",
+        "label": "Core modules designed",
+        "desc": "Command, dashboard, agents, workflows, onboarding"
+      },
+      {
+        "n": "0",
+        "label": "Revision cycles wasted",
+        "desc": "IA-first process eliminated rework"
+      }
+    ]
+  },
+  {
+    "id": "aw",
+    "title": "Abhiwan Technology",
+    "thumb": "pt-aw",
+    "abbr": "AW",
+    "tags": [
+      "design",
+      "brand"
+    ],
+    "industry": "Gaming · XR · Blockchain",
+    "cats": [
+      "Design",
+      "Branding",
+      "Web"
+    ],
+    "desc": "Enterprise website for a multi-vertical technology company operating across XR, AI, blockchain, and gaming. Complex services, made immediately clear to global enterprise buyers.",
+    "result": "Stronger global brand · Improved enterprise credibility",
+    "resShort": "Global",
+    "resLabel": "Enterprise reach",
+    "services": [
+      "Modern scalable website interface",
+      "Service architecture & product showcases",
+      "Visual consistency across all pages",
+      "UX optimised for clarity & conversion"
+    ],
+    "challengeTitle": "Too much to say. No one was listening.",
+    "challengeText": "Abhiwan Technology operated across four major verticals — XR, AI, blockchain, and gaming — serving enterprise clients globally. But their existing web presence made the breadth of their capabilities feel chaotic rather than impressive. Enterprise buyers were landing on the site and leaving confused. The challenge was to make a genuinely complex business feel immediately authoritative and trustworthy.",
+    "approachTitle": "Architecture before aesthetics.",
+    "approachText": "We started by restructuring the information architecture — creating a clear hierarchy that let enterprise buyers self-navigate to their relevant vertical without being overwhelmed by the full breadth of services. We then built a visual system that communicated scale and technical credibility without sacrificing clarity. The result is a site that matches the ambition of the business it represents.",
+    "results": [
+      {
+        "n": "Global",
+        "label": "Enterprise reach",
+        "desc": "Credible across US, UK & EU markets"
+      },
+      {
+        "n": "4",
+        "label": "Verticals unified",
+        "desc": "XR, AI, blockchain & gaming — coherent"
+      },
+      {
+        "n": "↑",
+        "label": "Enterprise credibility",
+        "desc": "Consistently noted by new business contacts"
+      },
+      {
+        "n": "1",
+        "label": "Visual system",
+        "desc": "Consistent across all pages and verticals"
+      }
+    ]
+  },
+  {
+    "id": "gr",
+    "title": "Grovia Platform",
+    "thumb": "pt-aw",
+    "abbr": "GP",
+    "tags": [
+      "design",
+      "dev",
+      "saas"
+    ],
+    "industry": "B2B SaaS · Growth Tools",
+    "cats": [
+      "Design",
+      "Dev",
+      "Saas"
+    ],
+    "desc": "SaaS dashboard design and development for a B2B growth platform. Complex data made simple through intentional visual hierarchy and user-first information architecture.",
+    "result": "Dashboard launched in 6 weeks",
+    "resShort": "6wk",
+    "resLabel": "Design to launch",
+    "services": [
+      "Dashboard UI/UX Design",
+      "Data visualisation system",
+      "Design system creation",
+      "Frontend development"
+    ],
+    "challengeTitle": "Data without clarity is just noise.",
+    "challengeText": "Grovia's platform aggregated complex growth data from multiple sources — but the existing dashboard made that data hard to read and even harder to act on. Sales teams were spending more time interpreting the tool than using it. The product needed a complete UX and visual redesign, plus a robust design system to support future feature development — all under a tight 6-week timeline.",
+    "approachTitle": "Visual hierarchy as the core design system.",
+    "approachText": "We began by auditing how sales teams actually used the data — what decisions were being made, what information was needed first. From that, we built a data visualisation system prioritising the highest-signal metrics and burying the noise. We then designed and developed the full dashboard UI with a component library that allowed the client's team to extend the product independently after launch.",
+    "results": [
+      {
+        "n": "6wk",
+        "label": "Design to launch",
+        "desc": "Full dashboard shipped on schedule"
+      },
+      {
+        "n": "Full",
+        "label": "Component library",
+        "desc": "Extensible system for future features"
+      },
+      {
+        "n": "↑",
+        "label": "Team adoption",
+        "desc": "Sales teams onboarded faster post-launch"
+      },
+      {
+        "n": "1",
+        "label": "Visual system",
+        "desc": "Consistent data visualisation across modules"
+      }
+    ]
+  },
+  {
+    "id": "vb",
+    "title": "Vaultboard",
+    "thumb": "pt-vb",
+    "abbr": "VB",
+    "tags": [
+      "design",
+      "dev",
+      "saas"
+    ],
+    "industry": "FinTech · Asset Management",
+    "cats": [
+      "Design",
+      "Development",
+      "SaaS"
+    ],
+    "desc": "Product design and development for a fintech asset management platform. Balancing regulatory complexity with a consumer-grade experience was the core design challenge.",
+    "result": "Clean, compliant, convertible",
+    "resShort": "FinTech",
+    "resLabel": "Product design",
+    "services": [
+      "Product strategy & architecture",
+      "UI/UX design",
+      "Component library",
+      "Web application development"
+    ],
+    "challengeTitle": "Compliance and usability are not opposites.",
+    "challengeText": "Vaultboard needed to handle complex asset management workflows — including regulatory requirements, portfolio views, and transaction histories — while feeling as approachable as a consumer finance app. Most fintech products choose one or the other. The brief was to build something that felt effortless to use, even when the underlying complexity was significant.",
+    "approachTitle": "Consumer-grade experience. Institutional-grade architecture.",
+    "approachText": "We began with product strategy — mapping all user roles and their distinct workflows before a single screen was designed. This allowed us to build a UI system that surfaced the right information at the right time without overwhelming users with regulatory complexity. We then designed and developed the full platform with a component library ensuring visual consistency across every module.",
+    "results": [
+      {
+        "n": "Full",
+        "label": "Platform designed & built",
+        "desc": "Strategy through to production code"
+      },
+      {
+        "n": "↑",
+        "label": "User confidence",
+        "desc": "Consumer-grade clarity on complex workflows"
+      },
+      {
+        "n": "1",
+        "label": "Component library",
+        "desc": "Consistent across all platform modules"
+      },
+      {
+        "n": "Clean",
+        "label": "Compliant & convertible",
+        "desc": "Regulatory needs met without UX sacrifice"
+      }
+    ]
+  },
+  {
+    "id": "zn",
+    "title": "Zeno AI",
+    "thumb": "pt-zn",
+    "abbr": "ZN",
+    "tags": [
+      "design",
+      "brand",
+      "saas"
+    ],
+    "industry": "AI Tools · Productivity",
+    "cats": [
+      "Design",
+      "Branding",
+      "SaaS"
+    ],
+    "desc": "Brand identity and SaaS interface design for an AI productivity tool. The visual language had to feel intelligent without feeling cold — premium without being sterile.",
+    "result": "Brand to launch-ready in 5 weeks",
+    "resShort": "5wk",
+    "resLabel": "Brand to launch",
+    "services": [
+      "Brand identity design",
+      "Marketing website design",
+      "SaaS interface & onboarding",
+      "Pitch deck for fundraising"
+    ],
+    "challengeTitle": "AI products that feel cold don't convert.",
+    "challengeText": "Zeno AI had a genuinely useful productivity tool, but no brand and no interface. The founding team were approaching their first fundraising round and needed everything — brand, marketing site, product interface, and pitch deck — delivered on a timeline that matched their raise. The added challenge: the product had to feel warm and human, not robotic and generic like most AI tools.",
+    "approachTitle": "Brand first, everything follows.",
+    "approachText": "We started with brand identity — developing a visual language that balanced intelligence and warmth. A system that felt premium without feeling sterile. From there, we built the marketing website, product interface, and onboarding experience using that brand system as a foundation. The pitch deck was designed last, using the full brand identity to make a strong impression with investors.",
+    "results": [
+      {
+        "n": "5wk",
+        "label": "Brand to launch-ready",
+        "desc": "From kickoff to full deliverable set"
+      },
+      {
+        "n": "4",
+        "label": "Deliverables shipped",
+        "desc": "Brand, site, product, pitch deck"
+      },
+      {
+        "n": "↑",
+        "label": "Investor confidence",
+        "desc": "Pitch deck used in active fundraise"
+      },
+      {
+        "n": "Full",
+        "label": "Design system",
+        "desc": "Brand system applied across all touchpoints"
+      }
+    ]
+  }
+]

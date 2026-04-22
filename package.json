@@ -1,0 +1,14 @@
+{
+  "name": "ryvon-strix",
+  "version": "1.0.0",
+  "description": "Strix Production Studio with Admin CMS",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}

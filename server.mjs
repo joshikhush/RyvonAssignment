@@ -20,6 +20,7 @@ const MIME_TYPES = {
   '.svg': 'image/svg+xml',
   '.wav': 'audio/wav',
   '.mp4': 'video/mp4',
+  '.webm': 'video/webm',
   '.woff': 'application/font-woff',
   '.ttf': 'application/font-ttf',
   '.eot': 'application/vnd.ms-fontobject',
